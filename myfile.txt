@@ -1,0 +1,7 @@
+hi utkarsh you are practicing to file input and output and here you are write in a file with using python concept
+
+i am a first line 
+i am a secound line 
+i am a third line
+
+heloo my name is utkarsh ganoo i am from dewas vikas nagar .i'm an engineer student of computer science and technology
